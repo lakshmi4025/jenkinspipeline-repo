@@ -8,7 +8,7 @@ stages{
 }
 stage('test'){
 steps {
-echo 'testing source code....this is test phase in'
+echo 'testing source code....this is test phase'
 }
 }
 stage('package'){
